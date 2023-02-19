@@ -11,4 +11,5 @@
 
 # Лицензия
 Human Editor Pro является лишь модификацией. Основная, последняя версия взятого за основу продукта доступна на github: https://github.com/morten1982/crossCobra  
+Иконки Flat Gradient. Автор: Maan Icons
 Спасибо!
